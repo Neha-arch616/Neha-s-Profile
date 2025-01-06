@@ -41,8 +41,8 @@ I am an enthusiastic and passionate Full Stack Developer, eager to leverage my t
 - Exploring cloud services like AWS and Azure to expand my knowledge in cloud computing.
 
 ## 📫 Contact Me
-- **Email:** [neha@example.com](mailto:neha@example.com)
-- **LinkedIn:** [linkedin.com/in/neha-arch616](https://linkedin.com/in/neha-arch616)
+- **Email:** [nnehasingh022@gmail.com](mailto:nnehasingh022@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nehasingh2422](https://linkedin.com/in/nehasingh2422)
 - **GitHub:** [github.com/Neha-arch616](https://github.com/Neha-arch616)
 
 
@@ -52,4 +52,4 @@ I am an enthusiastic and passionate Full Stack Developer, eager to leverage my t
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/nehasingh2422) |
+[LinkedIn](https://www.linkedin.com/in/nehasingh2422)
